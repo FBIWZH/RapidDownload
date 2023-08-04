@@ -1,4 +1,4 @@
-## RapidDownload：一个纯净的软件下载站
+## $RapidDownload：一个纯净的软件下载站$
 
 ------
 
@@ -14,9 +14,9 @@ $$
 
 ------
 
+> [!note] 祝君使用愉快
 
-
-
+------
 $$
 This\ is\ RapidDownload \\created \ by \ FBIWZH
 $$
