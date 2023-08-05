@@ -1,6 +1,6 @@
 * [RapidDownload](README.md)
 
-* Downloads
+* softwares
   * [7-zip](RapidDown\7-zip\7-zip.md)
   * [FFmpeg](RapidDown\FF\FF.md)
   * [GithubDesktop](RapidDown\Gd\Gd.md)
