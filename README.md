@@ -28,6 +28,8 @@ $RapidDownload$是一个安全的，为程序员而设计的一个下载站。
 
 如果本页面内容有误/想添加内容，可以[戳这里留言](https://fbiwzh.github.io/Rapidfeedback)
 
+同时，如果你有编程/OI背景的话，也非常欢迎你加入我们的[团队](https://www.luogu.com.cn/team/65426)
+
 ------
 
 
